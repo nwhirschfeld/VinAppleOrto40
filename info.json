@@ -1,0 +1,53 @@
+{
+    "keyboard_name": "VinAppleOrto40",
+    "url": "https://github.com/nwhirschfeld/VinAppleOrto40",
+    "maintainer": "NWHirschfeld",
+    "width": 10,
+    "height": 4,
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"label":"K00 (C6,B4)", "x":0, "y":0}
+                {"label":"K01 (C6,B5)", "x":1, "y":0}
+                {"label":"K00 (C6,B4)", "x":0, "y":0},
+                {"label":"K01 (C6,B5)", "x":1, "y":0},
+                {"label":"K02 (C6,B6)", "x":2, "y":0},
+                {"label":"K03 (C6,D0)", "x":3, "y":0},
+                {"label":"K04 (C6,D1)", "x":4, "y":0},
+                {"label":"K05 (C6,D2)", "x":5, "y":0},
+                {"label":"K06 (C6,D3)", "x":6, "y":0},
+                {"label":"K07 (C6,D4)", "x":7, "y":0},
+                {"label":"K08 (C6,E6)", "x":8, "y":0},
+                {"label":"K09 (C6,D7)", "x":9, "y":0},
+                {"label":"K10 (B1,B4)", "x":0, "y":1},
+                {"label":"K11 (B1,B5)", "x":1, "y":1},
+                {"label":"K12 (B1,B6)", "x":2, "y":1},
+                {"label":"K13 (B1,D0)", "x":3, "y":1},
+                {"label":"K14 (B1,D1)", "x":4, "y":1},
+                {"label":"K15 (B1,D2)", "x":5, "y":1},
+                {"label":"K16 (B1,D3)", "x":6, "y":1},
+                {"label":"K17 (B1,D4)", "x":7, "y":1},
+                {"label":"K18 (B1,E6)", "x":8, "y":1},
+                {"label":"K19 (B1,D7)", "x":9, "y":1},
+                {"label":"K20 (B2,B4)", "x":0, "y":2},
+                {"label":"K21 (B2,B5)", "x":1, "y":2},
+                {"label":"K22 (B2,B6)", "x":2, "y":2},
+                {"label":"K23 (B2,D0)", "x":3, "y":2},
+                {"label":"K24 (B2,D1)", "x":4, "y":2},
+                {"label":"K25 (B2,D2)", "x":5, "y":2},
+                {"label":"K26 (B2,D3)", "x":6, "y":2},
+                {"label":"K27 (B2,D4)", "x":7, "y":2},
+                {"label":"K28 (B2,E6)", "x":8, "y":2},
+                {"label":"K29 (B2,D7)", "x":9, "y":2},
+                {"label":"K30 (B3,B4)", "x":0, "y":3, "w":1.5},
+                {"label":"K32 (B3,B6)", "x":1.5, "y":3, "w":1.5},
+                {"label":"K33 (B3,D0)", "x":3, "y":3, "w":1.25},
+                {"label":"K34 (B3,D1)", "x":4.25, "y":3},
+                {"label":"K35 (B3,D2)", "x":5.25, "y":3},
+                {"label":"K36 (B3,D3)", "x":6.25, "y":3},
+                {"label":"K38 (B3,E6)", "x":7.25, "y":3, "w":1.25},
+                {"label":"K39 (B3,D7)", "x":8.5, "y":3, "w":1.5}
+            ]
+        }
+    }
+}
